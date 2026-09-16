@@ -7,8 +7,8 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=githubpages&logoColor=white)](https://jeuri-ddz.github.io)
-[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeurid01@gmail.com)
+
 
 </div>
 

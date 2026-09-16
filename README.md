@@ -3,8 +3,7 @@
 # ¡Hola! Soy Jeuri 👋
 
 ### 🎮 Desarrollador de Aplicaciones y Videojuegos
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE8FFF&center=true&width=435&lines=Estudiante++de+DAM+GS+%7C+Especializado+en+VideoJuegos;+Gameplay+2D%7C3D+%F0%9F%8E%AE)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=818CF8&center=true&vCenter=true&width=650&lines=Estudiante+de+DAM+GS+%F0%9F%8E%93;Gameplay+2D%2F3D+%F0%9F%8E%AE;Sistemas+de+Infraestructura+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=githubpages&logoColor=white)](https://jeuri-ddz.github.io)

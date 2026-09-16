@@ -57,5 +57,5 @@ Administración de sistemas, hardware, fundamentos de redes y seguridad.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raimonizard/raimonizard/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raimonizard/raimonizard/output/pacman-contribution-graph.svg" style="visibility: visible; max-width: 100%;">
 </picture>
-
+*Gracias por pasarte por aquí — abierto a colaborar en diversos proyectos 🚀*
 </div>

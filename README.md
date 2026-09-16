@@ -16,13 +16,23 @@
 
 ### 🧩 Sobre mí
 
-- 🕹️ Diseño y programo **gameplay 2D**, desde la mecánica hasta el prototipo jugable.
+- 🕹️ Diseño y programo **gameplay 2D/3D**, desde la mecánica hasta el prototipo jugable.
 - ⚙️ Me atraen igual los **sistemas de infraestructura**, la parte que sostiene un proyecto por detrás.
-- 🎓 Estudiante de **DAM GS** (Grado Superior), especializado en desarrollo de videojuegos.
+- 🎓 Cursando el Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, especializado en videojuegos y arquitectura C#.
 - 🌱 Siempre moviéndome entre lo que se juega y lo que lo hace posible.
 
 ---
+### 🎓 Educación
 
+**Título Superior de Formación Profesional en Desarrollo de Aplicaciones Multiplataforma (DAM)**
+*Instituto Tecnológico de Barcelona · 2026 - Presente*
+Especialización en desarrollo de videojuegos y arquitectura C#.
+
+**Título de Formación Profesional Intermedio en Sistemas y Redes de Microcomputadoras (SMR)**
+*Instituto Badalona VII · 2026*
+Administración de sistemas, hardware, fundamentos de redes y seguridad.
+
+---
 ### 🛠️ Tecnologías
 
 **Lenguajes**

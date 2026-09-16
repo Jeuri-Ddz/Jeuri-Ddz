@@ -16,11 +16,8 @@
 
 ### 🧩 Sobre mí
 
-- 🕹️ Diseño y programo **gameplay 2D/3D**, desde la mecánica hasta el prototipo jugable.
-- ⚙️ Me atraen igual los **sistemas de infraestructura**, la parte que sostiene un proyecto por detrás.
+- 🕹️ Diseño y programo **Juegos**.
 - 🎓 Cursando el Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, especializado en videojuegos y arquitectura C#.
-- 🌱 Siempre moviéndome entre lo que se juega y lo que lo hace posible.
-
 ---
 ### 🎓 Educación
 
@@ -39,7 +36,6 @@ Administración de sistemas, hardware, fundamentos de redes y seguridad.
 
 ![HTML5](https://img.shields.io/badge/HTML5-6366F1?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-6366F1?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-6366F1?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6366F1?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-6366F1?style=for-the-badge&logo=csharp&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-6366F1?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -56,6 +52,6 @@ Administración de sistemas, hardware, fundamentos de redes y seguridad.
 
 <div align="center">
 
-*Gracias por pasarte por aquí — abierto a colaborar en proyectos de videojuegos 🚀*
+*Gracias por pasarte por aquí — abierto a colaborar en diversos proyectos 🚀*
 
 </div>

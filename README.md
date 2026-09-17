@@ -57,8 +57,8 @@ Administración de sistemas, hardware, fundamentos de redes y seguridad.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeuri-Ddz/Jeuri-Ddz/output/github-snake-dark.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Jeuri-Ddz/Jeuri-Ddz/output/github-snake.svg" style="width:100%;" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeuri-Ddz/Jeuri-Ddz/output/github-snake-dark.svg?v=2" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Jeuri-Ddz/Jeuri-Ddz/output/github-snake.svg?v=2" width="100%" />
 </picture>
 
 *Gracias por pasarte por aquí — abierto a colaborar en diversos proyectos 🚀*

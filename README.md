@@ -9,7 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=githubpages&logoColor=white)](https://jeuri-ddz.github.io)
 [![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeurid01@gmail.com)
 
-
 </div>
 
 ---
@@ -18,7 +17,9 @@
 
 - 🕹️ Diseño y programo **Juegos**.
 - 🎓 Cursando el Grado Superior en **Desarrollo de Aplicaciones Multiplataforma (DAM)**, especializado en videojuegos y arquitectura C#.
+
 ---
+
 ### 🎓 Educación
 
 **Título Superior de Formación Profesional en Desarrollo de Aplicaciones Multiplataforma (DAM)**
@@ -30,6 +31,7 @@ Especialización en desarrollo de videojuegos y arquitectura C#.
 Administración de sistemas, hardware, fundamentos de redes y seguridad.
 
 ---
+
 ### 🛠️ Tecnologías
 
 **Lenguajes**
@@ -50,12 +52,15 @@ Administración de sistemas, hardware, fundamentos de redes y seguridad.
 
 ---
 
+### 📊 Actividad
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeuri-ddz/jeuri-ddz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeuri-ddz/jeuri-ddz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jeuri-ddz/jeuri-ddz/output/pacman-contribution-graph.svg" style="visibility: visible; max-width: 100%;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeuri-Ddz/Jeuri-Ddz/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/Jeuri-Ddz/Jeuri-Ddz/output/github-snake.svg" style="width:100%;" />
 </picture>
+
 *Gracias por pasarte por aquí — abierto a colaborar en diversos proyectos 🚀*
+
 </div>

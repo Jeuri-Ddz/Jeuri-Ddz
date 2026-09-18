@@ -55,7 +55,7 @@ Administración de sistemas, hardware, fundamentos de redes y seguridad.
 ### 📊 Actividad
 
 <div align="center">
-a
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeuri-Ddz/Jeuri-Ddz/output/github-snake-dark.svg?v=2" />
   <img alt="snake" src="https://raw.githubusercontent.com/Jeuri-Ddz/Jeuri-Ddz/output/github-snake.svg?v=2" width="100%" />
